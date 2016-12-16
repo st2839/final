@@ -1,0 +1,49 @@
+.content {
+  padding-top: 70px;
+}
+.navbar-default {
+  border: none;
+}
+.bghat {
+  background-image: url('girlthinking.jpg');
+  background-position:center center;
+  background-size: cover;
+  height: 500px;
+}
+
+h1 {
+	color: orange;
+	padding: 10px;
+	margin: 0;
+  font-family: "HanziPen SC", Verdana, Arial, sans-serif;
+}
+h2 {
+	background-color: orange;
+	color: white;
+	padding: 10px;
+	margin: 0;
+  font-family: "HanziPen SC", sans-serif;
+}
+
+h3 {
+	color: black;
+	margin: 0;
+  font-family: "HanziPen SC", sans-serif;
+  padding: 10px;
+}
+h4 {
+	color: white;
+	font-style: italic;
+	margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+h5 {
+	color: black;
+	margin: 0;
+  font-family: "HanziPen SC", sans-serif;
+  padding: 30px;
+}
+body {
+    background-color: #FAF8DA;
+}
