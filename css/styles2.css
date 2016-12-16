@@ -1,0 +1,30 @@
+.content {
+  padding-top: 70px;
+}
+.navbar-default {
+  border: none;
+}
+.bghat {
+  background-image: url('girlthinking.jpg');
+  background-position:center center;
+  background-size: cover;
+  height: 500px;
+}
+h2 {
+	background-color: black;
+	color: white;
+	padding: 10px;
+	margin: 0;
+  font-family: Arial, sans-serif;
+}
+p {
+  padding: 5px;
+}
+
+h4 {
+	color: white;
+	font-style: italic;
+	margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
