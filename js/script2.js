@@ -199,3 +199,12 @@ function nextslide(clicked_id)
     return score;
   }
 })();
+
+$('#tommy').on('slid.bs.carousel', function(e){
+	var imgEl = e.currentTarget.querySelector('.item.active img');
+
+	if (imgEl.alt === 't15') {
+		alert('slid');
+	}
+
+});
