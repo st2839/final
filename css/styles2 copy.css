@@ -22,27 +22,21 @@ h2 {
 	color: white;
 	padding: 10px;
 	margin: 0;
-  font-family: "HanziPen SC", sans-serif;
+  font-family: "HanziPen SC", Verdana, sans-serif;
 }
 
 h3 {
 	color: black;
 	margin: 0;
-  font-family: "HanziPen SC", sans-serif;
+  font-family: "HanziPen SC", Verdana, sans-serif;
   padding: 10px;
 }
+
 h4 {
-	color: white;
-	font-style: italic;
-	margin: 0;
-  font-family: Arial, sans-serif;
-  padding: 10px;
-}
-h5 {
 	color: black;
 	margin: 0;
-  font-family: "HanziPen SC", sans-serif;
-  padding: 30px;
+  font-family: "Lucida Console", sans-serif;
+  padding: 10px;
 }
 body {
     background-color: #FAF8DA;
